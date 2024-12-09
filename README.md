@@ -1,2 +1,2 @@
 # HospitalManagementSystem
-Configure the database in application.properties
+Configure the database in application.properties file.
